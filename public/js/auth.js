@@ -6,7 +6,7 @@ import { getAuth, signInWithPopup, GoogleAuthProvider, signOut } from "https://w
 
 // Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyDu5_HRIYifl5X4ivrE9lTLmW6Nk122OiM",
+    apiKey: "<your apiKey>",
     authDomain: "moviesnow-3f7d6.firebaseapp.com",
     projectId: "moviesnow-3f7d6",
     storageBucket: "moviesnow-3f7d6.firebasestorage.app",
