@@ -4,7 +4,7 @@ import { getAuth } from "https://www.gstatic.com/firebasejs/9.10.0/firebase-auth
 import { getFirestore } from "https://www.gstatic.com/firebasejs/9.10.0/firebase-firestore.js";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCc7TQYbO4oWUHuNOGZKLXN0xh5rPw3ks4",
+    apiKey: "<your apiKey>",
     authDomain: "movieshub-4u.firebaseapp.com",
     projectId: "movieshub-4u",
     storageBucket: "movieshub-4u.firebasestorage.app",
